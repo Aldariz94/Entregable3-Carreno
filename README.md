@@ -1,4 +1,6 @@
 Proyecto Final: Concesionaria Interactiva 🚗🚙
+
+
 Descripción del Proyecto
 Este proyecto es una aplicación web que simula la venta y el arriendo de vehículos. Los usuarios pueden navegar por un catálogo (cargado desde un archivo JSON), agregar vehículos a un carrito (ya sea para comprar o arrendar), y al finalizar, ingresar sus datos personales (nombre, apellidos, RUT, fecha de nacimiento y correo). Posteriormente, se intenta enviar un correo de confirmación mediante EmailJS.
 
