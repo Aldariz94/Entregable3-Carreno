@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Concesionaria Interactiva</title>
+  <!-- Hoja de estilos -->
+  <link rel="stylesheet" href="style.css"/>
+  <!-- Librería SweetAlert2 -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <!-- Librería EmailJS -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+  <!-- Script principal -->
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Concesionaria Interactiva</h1>
+    <button id="btnCarrito">Ver Carrito (<span id="cartCount">0</span>)</button>
+  </header>
+  
+  <main>
+    <section id="catalogo">
+      <h2>Catálogo de Vehículos</h2>
+      <div id="vehiculosContainer"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 - Proyecto Final Daniel Carreño</p>
+  </footer>
+</body>
+</html>

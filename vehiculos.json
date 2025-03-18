@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": 2020,
+    "precioVenta": 20000,
+    "precioArriendoDia": 70,
+    "modalidades": ["venta", "arriendo"],
+    "imagen": "https://tcl-s3-bucket.s3.amazonaws.com/web/media/images/Corolla_destacado.max-730x330_2.max-730x330.png"
+  },
+  {
+    "id": 2,
+    "marca": "Honda",
+    "modelo": "Civic",
+    "anio": 2021,
+    "precioVenta": 22000,
+    "precioArriendoDia": 80,
+    "modalidades": ["venta"],
+    "imagen": "https://autos.honda.cl/wp-content/uploads/2022/03/touring-civic.png.webp"
+  },
+  {
+    "id": 3,
+    "marca": "Ford",
+    "modelo": "Focus",
+    "anio": 2019,
+    "precioVenta": 18000,
+    "precioArriendoDia": 0,
+    "modalidades": ["venta"],
+    "imagen": "https://www.gpas-cache.ford.com/guid/d7b99e9d-54cd-38c3-bbff-2cfa5220afd2.png"
+  },
+  {
+    "id": 4,
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "anio": 2020,
+    "precioVenta": 21000,
+    "precioArriendoDia": 60,
+    "modalidades": ["arriendo"],
+    "imagen": "https://www.chevrolet.com.ar/content/dam/chevrolet/sa/argentina/espanol/index/cars/2019-cruze-premier/colorizer/enero-21/colorizer-preto-ouro-negro.jpg?imwidth=1200"
+  },
+  {
+    "id": 5,
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "anio": 2022,
+    "precioVenta": 35000,
+    "precioArriendoDia": 120,
+    "modalidades": ["venta", "arriendo"],
+    "imagen": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331cqgv2Z7d%25i02uCaY3MuO2kOHUtWPfbYfvKDP10tLhu1XzWVo7puMLWFmdkAj5DOP7t6JZ8XgY1nTNIowJ4HO3zkyXq%25sGM8snpq6v6ODubLz2aKqfkSwjmB2fJj5DOP5Eagd%25kcWExHWpbl8FO2k3Hy2o242xMTQBrXv6NQ%25gvc2Ydw6XRoYWFOYQ5DxR67F5VuTkYCn17RUuChSE25GybU7seGAM6QCrv0sUizrJkReGwXHiscqwBE%25Srx6KcifOxdxJyw1RSfcPT1D2Pkxb7MPfN2bnQpy10UkNPoQ0yW5BbHsLoNFYHvV8J0KiIFou5KXwrJHSc3uFeCS6iHdKMfjeuzGMRcKCSkPazeqrk7ho4MLNmqzOwLUAnrkIogOqTxIs8TOL3FlTO213iuz6IjA2y5oHBzcMNpAlZyQjKrPXYuNWC"
+  }
+]
